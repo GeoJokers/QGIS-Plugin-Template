@@ -1,0 +1,9 @@
+# TODO
+
+- [x] Clone this repository
+- [ ] Adjust `metadata.txt` (especially `name`).
+- [ ] Adjust `name` and `plugin_path` in `pb_tool.cfg`.
+- [ ] Adjust `PLUGIN_NAME` and `PLUGIN_MENU` in `__init__.py`.
+- [ ] Install plugin building tools with `pip install pb_tool`.
+- [ ] Deploy plugin to QGIS directory with `pb_tool deploy`
+- [ ] Start QGIS and run plugin.

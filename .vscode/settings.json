@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/Applications/QGIS-LTR.app/Contents/MacOS/bin/python3.9",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "files.encoding": "utf8",
+    "cSpell.words": [],
+}
